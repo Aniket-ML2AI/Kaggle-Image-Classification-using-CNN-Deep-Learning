@@ -1,0 +1,2 @@
+This is a deep learning framework for Flower recognition kaggle data set. I have used the vanilla CNN, Alexnet CNN and data augmentation to achieve the best probable accuracy. You can find the dataset link here
+https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
